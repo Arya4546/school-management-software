@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo.jpg';
 import PropTypes from 'prop-types';
 
 const Login = ({ onLogin }) => {
