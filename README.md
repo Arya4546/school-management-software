@@ -116,6 +116,6 @@ Keep your .env files secure and never push them to public repos.
 
 👨‍💻 Developed By
 Arya Deep Singh
-🔗 GitHub: https://github.com/Arya4546 • LinkedIn: https://www.linkedin.com/in/arya-deep-singh-8b1a84230
+🔗 GitHub: https://github.com/Arya4546 • LinkedIn: https://www.linkedin.com/in/arya-deep-singh-8b1a84230 • My_Portfolio: https://my-portfolio-inky-iota-97.vercel.app
 
 Passionate Full Stack Developer with a focus on real-world SaaS solutions.
