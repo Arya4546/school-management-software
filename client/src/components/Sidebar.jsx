@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { X } from 'lucide-react';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo.jpg';
 
 const Sidebar = ({ onLogout, user }) => {
   const [isOpen, setIsOpen] = useState(false);
