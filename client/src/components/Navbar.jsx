@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { LogOut, Menu } from 'lucide-react';
 import axios from 'axios';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo.jpg';
 
 const Navbar = ({ user, onLogout }) => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
